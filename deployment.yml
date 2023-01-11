@@ -14,7 +14,7 @@ spec:
   spec: 
    containers:
    - name: c1
-     image: https://github.com/dssjai/nextjen/fbweb
+     image: https://docker.io/sunhubsun/testfb
      imagePullPolicy: Always
      stdin: true
      tty: true
