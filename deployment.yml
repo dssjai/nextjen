@@ -14,7 +14,7 @@ spec:
   spec: 
    containers:
    - name: c1
-     image: https://quay.io/gauravkumar9130/alpine
+     image: https://quay.io/gauravkumar9130/alpine:latest
      imagePullPolicy: Always
      stdin: true
      tty: true
