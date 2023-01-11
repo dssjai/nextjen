@@ -14,7 +14,7 @@ spec:
   spec: 
    containers:
    - name: c1
-     image: https://docker.io/sunhubsun/testfb:v1
+     image: https://quay.io/gauravkumar9130/alphine
      imagePullPolicy: Always
      stdin: true
      tty: true
